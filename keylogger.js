@@ -1,5 +1,5 @@
 var keys='';
- var url = 'https://github.com/jessedauncey';
+ var url = 'https://github.com/jessedauncey/jessedauncey.git';
  document.onkeypress = function(e) {
      get = window.event?event:e;
      key = get.keyCode?get.keyCode:get.charCode;
